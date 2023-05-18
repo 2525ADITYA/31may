@@ -6,7 +6,7 @@
 
 UL{
     background-color:#000000;
-    background-image: url("/31 may/images/menubar.jpg");
+    background-image: url("images/menubar.jpg");
     padding: 20px;
     
     
@@ -37,7 +37,7 @@ a:hover{
     font-size: 70px;
     font-family: 'Cedarville Cursive', cursive;
     height: 900px;
-    background-image:url("/31 may/images/chapter2h.jpg");
+    background-image:url("images/chapter2h.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;   
 }
@@ -53,7 +53,7 @@ h6{
 }
 .para2{
     height: auto;
-    background-image: url("/31 may/images/ch2main.jpg");
+    background-image: url("images/ch2main.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     
