@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+UL{
+    background-color:#000000;
+    background-image: url("/31 may/images/menubar.jpg");
+    padding: 20px;
+    
+    
+}
+li{
+    font-style: italic;
+    font-weight: bold;
+    padding: 30px;
+    display: inline;
+    color:WHITE;   
+ 
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+
+}
+a:hover{
+    background-color: #FFEAD2;
+    color: #181823;
+    padding: 15px;
+    border-radius: 2em;
+}
