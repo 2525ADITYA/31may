@@ -6,7 +6,7 @@
 
 UL{
     background-color:#000000;
-    background-image: url("/31 may/images/menubar.jpg");
+    background-image: url("image/menubar.jpg");
     padding: 20px;
     
     
@@ -38,7 +38,7 @@ a:hover{
     font-family: 'Cedarville Cursive', cursive;
     height: 900px;
     
-    background-image:url("/images/image.jpg");
+    background-image:url("images/image.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;   
 }
@@ -49,7 +49,7 @@ h1{
 }
 .Intro{
     height: 800px;
-    background-image: url("/31 may/images/new.jpg");
+    background-image: url("images/new.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
