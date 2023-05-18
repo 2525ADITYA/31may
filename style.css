@@ -14,7 +14,7 @@ UL{
 li{
     font-style: italic;
     font-weight: bold;
-    padding: 30px;
+    padding: 25px;
     display: inline;
     color:WHITE;   
  
@@ -38,7 +38,7 @@ a:hover{
     font-family: 'Cedarville Cursive', cursive;
     height: 900px;
     
-    background-image:url("/31 may/images/image.jpg");
+    background-image:url("/images/image.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;   
 }
