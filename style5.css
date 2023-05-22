@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding:0;
+ 
+    }
+
+UL{
+    background-color:#000000;
+    background-image: url("/31 may/images/menubar.jpg");
+    padding: 20px;
+    
+    
+}
+li{
+    font-style: italic;
+    font-weight: bold;
+    padding: 30px;
+    display: inline;
+    color:WHITE;   
+ 
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+
+}
+a:hover{
+    background-color: #FFEAD2;
+    color: #181823;
+    padding: 15px;
+    border-radius: 2em;
+}
+
+.head6{
+    background-image: url("/31 may/images/menubar.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+p{
+    padding: 10px;
+    margin-top: 200px;
+    
+    color: white;
+    font-size: 40px;
+    font-style: italic;
+    
+}
+
+h1{
+    margin-left: 35%;
+    padding-top: 150px;
+    
+}
